@@ -4,20 +4,20 @@
 
 # Akshay Kannappan
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1500&color=6E9BD1&center=true&vCenter=true&width=650&lines=AI+Systems+%26+Knowledge+Infrastructure;Retrieval-Augmented+%26+Agentic+Architectures;Model+Context+Protocol+%7C+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2200&color=6E9BD1&center=true&vCenter=true&width=600&lines=Founder+%26+Systems+Architect;Building+the+Infrastructure+Layer+for+AI;From+Concept+to+Production" alt="Typing SVG" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/akshay-k-7177b1265/">
-  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="45" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:akshaykannappan@gmail.com">
-  <img src="https://img.shields.io/badge/-6E9BD1?style=for-the-badge&logo=gmail&logoColor=white" width="45" />
+  <img src="https://img.shields.io/badge/Email-6E9BD1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Akshaykannappan">
-  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" width="45" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br>
@@ -28,9 +28,11 @@
 
 <br>
 
-## Focus
+## About
 
-Akshay builds knowledge and retrieval systems for AI applications — from graph-based, vector-free document retrieval to Model Context Protocol tooling that standardizes how models talk to external systems. His work centers on making AI systems traceable and modular rather than opaque: structured knowledge over black-box embeddings, explicit context over brute-force retrieval. Recent projects span local-first RAG alternatives, agent-tool interoperability, and applied automation.
+I build the infrastructure that makes AI systems trustworthy — retrieval architectures you can trace, agent protocols that scale, and knowledge systems that don't hide behind a black box. My work sits at the intersection of systems design and applied AI: less about chasing benchmarks, more about building things that hold up in production.
+
+Currently focused on vector-free retrieval, agent-to-tool interoperability via MCP, and infrastructure for local-first AI deployment.
 
 <br>
 
@@ -38,48 +40,34 @@ Akshay builds knowledge and retrieval systems for AI applications — from graph
 
 <br>
 
-## Current Focus
+## What I Build
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**AI Agents**
-Tool-using, autonomous execution flows
+**Retrieval Systems**
+Graph and keyword-based architectures as a transparent alternative to pure vector search — retrieval you can audit, not just trust.
 
 </td>
 <td width="50%" valign="top">
 
-**Retrieval-Augmented Generation**
-Graph and keyword-based retrieval as alternatives to pure vector search
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Model Context Protocol**
-Standardized interfaces between models and external tools
-
-</td>
-<td width="50%" valign="top">
-
-**LLM Infrastructure**
-Local model serving and orchestration with Ollama
+**Agent Infrastructure**
+Standardized, protocol-level interfaces (MCP) connecting models to external tools and systems.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Knowledge Systems**
-Modular, link-traversable documentation as a retrieval substrate
+**Knowledge Architecture**
+Modular, link-traversable documentation systems designed as a retrieval substrate — not an afterthought.
 
 </td>
 <td width="50%" valign="top">
 
-**AI Automation**
-Applied automation for operational workflows
+**Applied AI Systems**
+End-to-end delivery — from local model orchestration to production-ready automation pipelines.
 
 </td>
 </tr>
@@ -91,7 +79,7 @@ Applied automation for operational workflows
 
 <br>
 
-## Core Stack
+## Technical Foundation
 
 <div align="center">
 
@@ -101,7 +89,7 @@ Applied automation for operational workflows
 
 <br><br>
 
-**ML Foundations**
+**Machine Learning**
 <br>
 <img src="https://img.shields.io/badge/PyTorch-6E9BD1?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-6E9BD1?style=flat-square&logo=huggingface&logoColor=white" />
@@ -112,7 +100,7 @@ Applied automation for operational workflows
 
 <br><br>
 
-**LLM & AI Engineering**
+**AI & LLM Engineering**
 <br>
 <img src="https://img.shields.io/badge/RAG-6E9BD1?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-6E9BD1?style=flat-square&logo=langchain&logoColor=white" />
@@ -126,7 +114,7 @@ Applied automation for operational workflows
 
 <br><br>
 
-**Backend**
+**Backend & Systems**
 <br>
 <img src="https://img.shields.io/badge/FastAPI-6E9BD1?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-6E9BD1?style=flat-square" />
@@ -135,13 +123,13 @@ Applied automation for operational workflows
 
 <br><br>
 
-**Databases**
+**Data Layer**
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
 
 <br><br>
 
-**Cloud & Infrastructure**
+**Infrastructure**
 <br>
 <img src="https://skillicons.dev/icons?i=docker,linux,githubactions" />
 
@@ -153,7 +141,7 @@ Applied automation for operational workflows
 
 <br><br>
 
-**Developer Tools**
+**Tooling**
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
@@ -165,35 +153,16 @@ Applied automation for operational workflows
 
 <br>
 
-## Architecture
-
-<table align="center">
-<tr>
-<td align="center" width="20%"><b>Multi-Agent Systems</b></td>
-<td align="center" width="20%"><b>Knowledge Systems</b></td>
-<td align="center" width="20%"><b>AI Workflows</b></td>
-<td align="center" width="20%"><b>API Design</b></td>
-<td align="center" width="20%"><b>System Design</b></td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-## Featured Projects
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### OKF — Vector-Free Knowledge Assistant
-Local AI assistant that answers questions from modular Markdown documentation using keyword matching and link traversal instead of vector embeddings.
+A local AI assistant that answers questions from modular Markdown documentation using keyword matching and link traversal — proving retrieval doesn't require a black box.
 
 **Stack:** Python · FastAPI · Ollama
-**Purpose:** Traceable, explicit retrieval over black-box vector search
 
 [View Repository →](https://github.com/Akshaykannappan/okf)
 
@@ -201,10 +170,9 @@ Local AI assistant that answers questions from modular Markdown documentation us
 <td width="50%" valign="top">
 
 ### Model Context Protocol Tooling
-Implementation and experimentation with MCP for standardized model-to-tool communication.
+Implementation work on MCP, building toward a standardized communication layer between models and the external systems they act on.
 
 **Stack:** Python · MCP
-**Purpose:** Interoperable interfaces between models and external systems
 
 [View Repository →](https://github.com/Akshaykannappan/MCP)
 
@@ -214,21 +182,19 @@ Implementation and experimentation with MCP for standardized model-to-tool commu
 <td width="50%" valign="top">
 
 ### RAG Improvement Engine
-Retrieval pipeline enhancements focused on grounding accuracy and reducing hallucination in production RAG systems.
+Retrieval pipeline enhancements engineered to improve grounding accuracy and cut hallucination rates in production RAG deployments.
 
 **Stack:** Python · Vector Search · LLM
-**Purpose:** Production-grade retrieval reliability
 
 [View Repository →](https://github.com/Akshaykannappan/Rag-improvement)
 
 </td>
 <td width="50%" valign="top">
 
-### Text-to-SQL Chatbot
-Natural language interface for querying structured databases through LLM-driven query generation.
+### Text-to-SQL Interface
+A natural language layer over structured databases, removing the query-writing bottleneck for non-technical stakeholders.
 
 **Stack:** Python · LLM · SQL
-**Purpose:** Removing the query-writing bottleneck for non-technical users
 
 [View Repository →](https://github.com/Akshaykannappan/text-sql-chatbot)
 
@@ -242,7 +208,7 @@ Natural language interface for querying structured databases through LLM-driven 
 
 <br>
 
-## GitHub Analytics
+## Activity
 
 <div align="center">
 
@@ -263,22 +229,22 @@ Natural language interface for querying structured databases through LLM-driven 
 
 <div align="center">
 
-## Connect
+### Let's Connect
 
 <a href="https://www.linkedin.com/in/akshay-k-7177b1265/">
-  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="45" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:akshaykannappan@gmail.com">
-  <img src="https://img.shields.io/badge/-6E9BD1?style=for-the-badge&logo=gmail&logoColor=white" width="45" />
+  <img src="https://img.shields.io/badge/Email-6E9BD1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Akshaykannappan">
-  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" width="45" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<sub>Building knowledge infrastructure for AI systems.</sub>
+<sub><i>Building the infrastructure layer for the next generation of AI systems.</i></sub>
 
 </div>
